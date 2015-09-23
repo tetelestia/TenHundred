@@ -1,0 +1,1 @@
+XKCD has released Simplewriter to check if your writing contains only the most-used 1000 English words:
